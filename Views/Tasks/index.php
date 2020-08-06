@@ -7,9 +7,10 @@
             <th>ID</th>
             <th>Task</th>
             <th>Description</th       >
-            <th class="text-center">Action</th>
+            <th class="text-center">Action</th>''
         </tr>
         </thead>
+        <h1>hi</h1>
         <?php
         foreach ($tasks as $task)
         {
